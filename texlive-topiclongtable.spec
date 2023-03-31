@@ -1,6 +1,6 @@
 Name:		texlive-topiclongtable
 Version:	54758
-Release:	1
+Release:	2
 Summary:	Extend longtable with cells that merge hierarchically
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/topiclongtable
