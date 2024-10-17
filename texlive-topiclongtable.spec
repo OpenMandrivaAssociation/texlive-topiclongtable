@@ -3,7 +3,7 @@ Version:	54758
 Release:	2
 Summary:	Extend longtable with cells that merge hierarchically
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/topiclongtable
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/topiclongtable
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/topiclongtable.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/topiclongtable.doc.r%{version}.tar.xz
